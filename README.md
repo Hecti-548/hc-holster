@@ -1,8 +1,8 @@
-![hc-holster-thumbnail|690x388](upload://xT66iBBlQ1k4s8dn1sIb0NLKGAO.jpeg)
+<img width="1280" height="720" alt="hc-holster-thumbnail" src="https://github.com/user-attachments/assets/99ddf148-0cdc-4887-97e6-ca80fe1a793a" />
 
 **hc-holster** shows your weapons on your character’s body and lets each player choose where to carry them. Pistols and rifles appear as props that follow your inventory, with draw and holster animations and an option to hide everything under your clothes. This system is created for all players, for police, gangs and citizens.
 
- :glowing_star: **Key Features**
+**Key Features**
 
 * **Weapon props on the ped**: they appear when you get a weapon and disappear when you lose it
 * **Choose where to carry pistols**: front, back, waist, hip, chest, thigh or leg
